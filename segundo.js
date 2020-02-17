@@ -1,1 +1,5 @@
-console.log('hola 2')
+
+function prueba(){
+    console.log('hola 2')
+}
+console.log(prueba())
